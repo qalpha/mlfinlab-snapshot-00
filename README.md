@@ -2,7 +2,7 @@
 public version of MLFINLAB from Hudson-Thames
 
 NOTE: This is a quite old version of the source. The requirement are also old. Use only as reference:
-
+```
 codecov==2.0.15
 coverage==4.5.2
 cvxpy==1.0.25
@@ -17,3 +17,4 @@ sphinx==2.2.1 # needed for docs
 sphinx-rtd-theme==0.4.3 # needed for docs
 statsmodels==0.11.1
 xmlrunner==1.7.7
+```
